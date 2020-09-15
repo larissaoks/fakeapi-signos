@@ -1,6 +1,17 @@
 {
-  " posts " : [
-    { " id " : 1 , " title " : " json-server " , " author " : " typicode " }
+  " signos " : [
+    { "id": "1", "nome":"Áries", "data": "21/03-20/04", "personalidade":"Espontaneidade, coragem e energia", "elemento":"Fogo", "regente":"Marte"},
+  { "id": "2", "nome":"Touro", "data": "21/04-21/05", "personalidade":"Persistência, sensualidade e teimosia", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "3", "nome":"Gêmeos", "data": "22/05-21/06", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "4", "nome":"Câncer", "data": "22/06-23/07", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "5", "nome":"Leão", "data": "24/07-23/08", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "6", "nome":"Virgem", "data": "24/08-23/09", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "7", "nome":"Libra", "data": "24/09-23/10", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "8", "nome":"Escorpião", "data": "24/10-22/11", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "9", "nome":"Sargitário", "data": "23/11-21/12", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "10", "nome":"Capricórnio", "data": "22/12-20/01", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "11", "nome":"Aquário", "data": "21/01-19/02", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "12", "nome":"Peixes", "data": "20/02-20/04", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"}
   ],
   " comentários " : [
     { " id " : 1 , " body " : " algum comentário " , " postId " : 1 }
