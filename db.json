@@ -10,5 +10,5 @@
   { "id": "9", "nome":"Sargitário", "data": "23/11-21/12", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
   { "id": "10", "nome":"Capricórnio", "data": "22/12-20/01", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
   { "id": "11", "nome":"Aquário", "data": "21/01-19/02", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
-  { "id": "12", "nome":"Peixes", "data": "20/02-20/04", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
+  { "id": "12", "nome":"Peixes", "data": "20/02-20/04", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"}
   
