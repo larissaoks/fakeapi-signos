@@ -11,7 +11,7 @@
   { "id": 9, "nome":"Sargitário", "data": "23/11-21/12", "personalidade":"Otimismo, liberdade e movimento", "elemento":"Fogo", "regente":"Júpiter"},
   { "id": 10, "nome":"Capricórnio", "data": "22/12-20/01", "personalidade":"Responsabilidade, ambição e persistência", "elemento":"Terra", "regente":"Saturno"},
   { "id": 11, "nome":"Aquário", "data": "21/01-19/02", "personalidade":"Inovação, originalidade e independência", "elemento":"Ar", "regente":"Saturno e Urano"},
-  { "id": 12, "nome":"Peixes", "data": "20/02-20/04", "personalidade":"Solidariedade, intuição e desapego", "elemento":"Água", "regente":"Júpiter e Netuno"}
+  { "id": 12, "nome":"Peixes", "data": "20/02-20/03", "personalidade":"Solidariedade, intuição e desapego", "elemento":"Água", "regente":"Júpiter e Netuno"}
   ],
   "elementos": [
     { "id": 1, "nome": "Água", "descricao": "Este elemento representa criatividade e ação. As pessoas em que predomina o elemento fogo são idealistas, dinâmicas, otimistas, corajosas e dispostas a enfrentar riscos. São bons líderes e preferente designar do que receber ordens. As pessoas de fogo são determinadas e perseverantes, por vezes podem ser indiferentes e arrogantes. São agitadas, impulsivas e quando explodem podem magoar os outros, não guardam sua raiva." },
