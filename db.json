@@ -1,18 +1,25 @@
 {
-  "cursos": [
+   "signos": [
     { "id": 1, "nome":"Áries", "data": "21/03-20/04", "personalidade":"Espontaneidade, coragem e energia", "elemento":"Fogo", "regente":"Marte"},
-    { "id": 2, "nome":"Touro", "data": "21/04-21/05", "personalidade":"Persistência, sensualidade e teimosia", "elemento":"Terra", "regente":"Vênus"},
-    { "id": 3, "nome":"Gêmeos", "data": "22/05-21/06", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"},
-    { "id": 4, "nome":"Câncer", "data": "22/06-23/07", "personalidade":"Espontânea, decidida, moderna e aventureira", "elemento":"Terra", "regente":"Vênus"}
+  { "id": 2, "nome":"Touro", "data": "21/04-21/05", "personalidade":"Persistência, sensualidade e teimosia", "elemento":"Terra", "regente":"Vênus"},
+  { "id": 3, "nome":"Gêmeos", "data": "22/05-21/06", "personalidade":"Curiosidade, inteligência e liberdade", "elemento":"Ar", "regente":"Mercúrio"},
+  { "id": 4, "nome":"Câncer", "data": "22/06-23/07", "personalidade":"Sensibilidade, carinho e família", "elemento":"Água", "regente":"Lua"},
+  { "id": 5, "nome":"Leão", "data": "24/07-23/08", "personalidade":"Criatividade, autoestima e nobreza", "elemento":"Fogo", "regente":"Sol"},
+  { "id": 6, "nome":"Virgem", "data": "24/08-23/09", "personalidade":"Objetividade, humanidade e organização", "elemento":"Terra", "regente":"Mercúrio"},
+  { "id": 7, "nome":"Libra", "data": "24/09-23/10", "personalidade":"Vaidade, empatia e diplomacia", "elemento":"Ar", "regente":"Vênus"},
+  { "id": 8, "nome":"Escorpião", "data": "24/10-22/11", "personalidade":"Intensidade, mistério e intuição", "elemento":"Água", "regente":"Marte e Plutão"},
+  { "id": 9, "nome":"Sargitário", "data": "23/11-21/12", "personalidade":"Otimismo, liberdade e movimento", "elemento":"Fogo", "regente":"Júpiter"},
+  { "id": 10, "nome":"Capricórnio", "data": "22/12-20/01", "personalidade":"Responsabilidade, ambição e persistência", "elemento":"Terra", "regente":"Saturno"},
+  { "id": 11, "nome":"Aquário", "data": "21/01-19/02", "personalidade":"Inovação, originalidade e independência", "elemento":"Ar", "regente":"Saturno e Urano"},
+  { "id": 12, "nome":"Peixes", "data": "20/02-20/04", "personalidade":"Solidariedade, intuição e desapego", "elemento":"Água", "regente":"Júpiter e Netuno"}
   ],
-  "alunos": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+  "elementos": [
+    { "id": 1, "nome": "Água", "descricao": "Este elemento representa criatividade e ação. As pessoas em que predomina o elemento fogo são idealistas, dinâmicas, otimistas, corajosas e dispostas a enfrentar riscos. São bons líderes e preferente designar do que receber ordens. As pessoas de fogo são determinadas e perseverantes, por vezes podem ser indiferentes e arrogantes. São agitadas, impulsivas e quando explodem podem magoar os outros, não guardam sua raiva." },
+    { "id": 2, "nome": "Ar", "descricao": "As pessoas de terra são práticas e consideradas introspectivas, sensíveis e muito humanitárias. Elas demonstram forte empatia pelo outro. Tendem a ser  ansiosas e um pouco pessimistas. São teimosas e dificilmente mudam de ideia sobre algum assunto. Agem com racionalidade e não gostam de futilidades." },
+    { "id": 3, "nome": "Fogo", "descricao": "As pessoas que têm forte presença do ar em seu mapa astral tendem a ser animadas, gostam de agitação e de socializar. Podem ser instáveis e indisciplinadas, o que as fazem não querer criar raízes e estar em constante mudança." },
+    { "id": 4, "nome": "Terra", "descricao": "Pessoas com forte presença de água possuem paciência e empatia como fortes características. Elas são sensíveis, calmas e se adaptam facilmente à lugares, pessoas e situações. Estão sempre com as emoções à flor da pele, mas não costumam demonstrar, sendo pouco impulsivas. Algumas vezes isso as leva a fazer a vontade dos outros."}
   ],
-  "empresa": {
-    "nome": "Code Prestige"
+  "fonte": {
+    "nome": "Personare e WeMystic"
   }
 }
