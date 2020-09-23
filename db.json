@@ -7,7 +7,7 @@
   { "id": 5, "nome":"Leão", "data": "24/07-23/08", "personalidade":"Criatividade, autoestima e nobreza", "elemento":"Fogo", "regente":"Sol", "fav":"false"},
   { "id": 6, "nome":"Virgem", "data": "24/08-23/09", "personalidade":"Objetividade, humanidade e organização", "elemento":"Terra", "regente":"Mercúrio", "fav":"true"},
   { "id": 7, "nome":"Libra", "data": "24/09-23/10", "personalidade":"Vaidade, empatia e diplomacia", "elemento":"Ar", "regente":"Vênus", "fav":"false"},
-  { "id": 8, "nome":"Escorpião", "data": "24/10-22/11", "personalidade":"Intensidade, mistério e intuição", "elemento":"Água", "regente":"Marte e Plutão", "fav":"false"},
+  { "id": 8, "nome":"Escorpião", "data": "24/10-22/11", "personalidade":"Intensidade, mistério e intuição", "elemento":"Água", "regente":"Marte e Plutão", "fav":"true"},
   { "id": 9, "nome":"Sargitário", "data": "23/11-21/12", "personalidade":"Otimismo, liberdade e movimento", "elemento":"Fogo", "regente":"Júpiter", "fav":"false"},
   { "id": 10, "nome":"Capricórnio", "data": "22/12-20/01", "personalidade":"Responsabilidade, ambição e persistência", "elemento":"Terra", "regente":"Saturno", "fav":"false"},
   { "id": 11, "nome":"Aquário", "data": "21/01-19/02", "personalidade":"Inovação, originalidade e independência", "elemento":"Ar", "regente":"Saturno e Urano", "fav":"false"},
