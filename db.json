@@ -1,11 +1,11 @@
 {
    "signos": [
-    { "id": 1, "nome":"Áries", "data": "21/03-20/04", "personalidade":"Espontaneidade, coragem e energia", "elemento":"Fogo", "regente":"Marte", "fav":"false"},
+    { "id": 1, "nome":"Áries", "data": "21/03-20/04", "personalidade":"Espontaneidade, coragem e energia", "elemento":"Fogo", "regente":"Marte", "fav":"true"},
   { "id": 2, "nome":"Touro", "data": "21/04-21/05", "personalidade":"Persistência, sensualidade e teimosia", "elemento":"Terra", "regente":"Vênus", "fav":"false"},
   { "id": 3, "nome":"Gêmeos", "data": "22/05-21/06", "personalidade":"Curiosidade, inteligência e liberdade", "elemento":"Ar", "regente":"Mercúrio", "fav":"false"},
   { "id": 4, "nome":"Câncer", "data": "22/06-23/07", "personalidade":"Sensibilidade, carinho e família", "elemento":"Água", "regente":"Lua", "fav":"false"},
   { "id": 5, "nome":"Leão", "data": "24/07-23/08", "personalidade":"Criatividade, autoestima e nobreza", "elemento":"Fogo", "regente":"Sol", "fav":"false"},
-  { "id": 6, "nome":"Virgem", "data": "24/08-23/09", "personalidade":"Objetividade, humanidade e organização", "elemento":"Terra", "regente":"Mercúrio", "fav":"false"},
+  { "id": 6, "nome":"Virgem", "data": "24/08-23/09", "personalidade":"Objetividade, humanidade e organização", "elemento":"Terra", "regente":"Mercúrio", "fav":"true"},
   { "id": 7, "nome":"Libra", "data": "24/09-23/10", "personalidade":"Vaidade, empatia e diplomacia", "elemento":"Ar", "regente":"Vênus", "fav":"false"},
   { "id": 8, "nome":"Escorpião", "data": "24/10-22/11", "personalidade":"Intensidade, mistério e intuição", "elemento":"Água", "regente":"Marte e Plutão", "fav":"false"},
   { "id": 9, "nome":"Sargitário", "data": "23/11-21/12", "personalidade":"Otimismo, liberdade e movimento", "elemento":"Fogo", "regente":"Júpiter", "fav":"false"},
